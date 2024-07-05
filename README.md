@@ -7,4 +7,6 @@ The next step of the project is to create and illustrate three primary pivot tab
 All of the pivot table charts are displayed in a comprehensive dashboard that offers an understandable and dynamic visual representation of the data. Slicers, which enable users to filter the data based on gender, education level, and region, are introduced to the dashboard to improve user involvement. This interactive feature enables more in-depth comprehension of the dataset and permits personalized views according to particular standards.
 
 The project successfully purges, organizes, and visualizes the data to improve its accessibility and comprehensibility. Better insights and decision-making are made possible by the project's transformation of unstructured data into an eye-catching dashboard. A comprehensive approach to data management and visualization in Excel is demonstrated via the combination of data cleaning, pivot table analysis, and interactive dashboard building.
-"D:\LEARNING\Data_analytics_Bootcamp\EXCEL\Excel project\Dashboard.png"
+![Dashboard](https://github.com/AleenaTomy/Excel_Projects/assets/104200525/fbe3f61f-7be0-4a5a-87c8-913d52fb9535)
+
+
